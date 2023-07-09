@@ -1,0 +1,51 @@
+{
+	"compiler": {
+		"version": "0.5.0+commit.1d4f565a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"constant": false,
+				"inputs": [],
+				"name": "setText",
+				"outputs": [
+					{
+						"name": "",
+						"type": "string"
+					}
+				],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"pratical_no 2./loops/string.sol": "sttringExample"
+		},
+		"evmVersion": "byzantium",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"pratical_no 2./loops/string.sol": {
+			"keccak256": "0x4d0afa3484b99decb821a4e174fb3d3728ece0eed69afcbc3047131efd1fdbba",
+			"urls": [
+				"bzzr://e779494e3c1c21c60e48b49f131c87167c7f449a381c65c01d229c9193a8ba86"
+			]
+		}
+	},
+	"version": 1
+}

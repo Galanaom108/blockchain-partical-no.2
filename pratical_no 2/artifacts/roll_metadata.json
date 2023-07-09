@@ -1,0 +1,71 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_myNumber",
+						"type": "uint256"
+					}
+				],
+				"name": "setRollNO",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "whatIsMyRollNumber",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"pratical_no 2./spacial.sol": "roll"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"pratical_no 2./spacial.sol": {
+			"keccak256": "0x739a06c7a13efa127525a25efcc41fd5d29a642d40491013e3b996521df71d9c",
+			"urls": [
+				"bzz-raw://9b35a9feb268be01bc63c31230906e93656c0051267e5a39cfeddf5fcb7addb2",
+				"dweb:/ipfs/QmfN8v5YHqhwb2cpVuRtfCckcrYYeCXM2kqY48aQZqDTmP"
+			]
+		}
+	},
+	"version": 1
+}

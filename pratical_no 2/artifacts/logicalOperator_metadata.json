@@ -1,0 +1,80 @@
+{
+	"compiler": {
+		"version": "0.8.0+commit.c7dfd78e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "bool",
+						"name": "a",
+						"type": "bool"
+					},
+					{
+						"internalType": "bool",
+						"name": "b",
+						"type": "bool"
+					}
+				],
+				"name": "Logic",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					},
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					},
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"pratical_no 2./Logical_oprator.sol": "logicalOperator"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"pratical_no 2./Logical_oprator.sol": {
+			"keccak256": "0x25495fff71d5e8bdcc6880429a0e2a66bc5931a341dd3006caff95b799a47844",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://db206414ceac3bf3d21b4fae1f4268af3c9aa4e703c701daad7cf83a9b82af05",
+				"dweb:/ipfs/QmQUsX9kGcN7DTsvTpHFdNPCmbZhxouNanJfX3nEtd8s6E"
+			]
+		}
+	},
+	"version": 1
+}

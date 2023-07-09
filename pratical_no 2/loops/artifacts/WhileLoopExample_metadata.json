@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.0+commit.c7dfd78e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "counter",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "target",
+						"type": "uint256"
+					}
+				],
+				"name": "incrementCounter",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"pratical_no 2./loops/do_while_loop.sol": "WhileLoopExample"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"pratical_no 2./loops/do_while_loop.sol": {
+			"keccak256": "0x3ad6b058e9f3f519cea9a62eb251932ae015f7b23eda11d3fc444c7ef597236a",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://9eefac94abbc770f0da79928a5d82b62a1d482c41c1a51f09050a986df22d7f3",
+				"dweb:/ipfs/QmPFuxevG66nCEbUmczWtr1kBwFfXcdDZMsW78HCkd7a4g"
+			]
+		}
+	},
+	"version": 1
+}
